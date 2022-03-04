@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#testId {
+  color: white;
+  background: hsl(260, 100%, 40%, 0.5);
+  border: 2px solid black;
+  padding: 5px 5px;
+  box-shadow: inset 2px -2px 2px red;
+}
